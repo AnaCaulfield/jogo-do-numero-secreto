@@ -9,7 +9,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-  exibirTextoNaTela('h1', 'Jogo do número secreto');
+  exibirTextoNaTela('h1', 'Clique para ser xingado seu bosta');
   exibirTextoNaTela(
     'p',
     'Escolha um número entre 1 e 5 seu doental do caralho'
